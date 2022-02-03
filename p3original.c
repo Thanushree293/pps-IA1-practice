@@ -12,7 +12,6 @@ int sum_n(int n)
   for(int i=1;i<=n;i++)
   {
     sum=sum+i;
-  
   }
   return sum;
 }
