@@ -14,7 +14,7 @@ void output(int a,int b,int sum)
 }
 int main()
 {
-  int a,b,c,ans;
+  int a,b,ans;
    input(&a,&b);
    add(a,b,&ans);
   output(a,b,ans);
