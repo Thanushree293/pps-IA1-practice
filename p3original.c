@@ -18,7 +18,7 @@ int sum_n(int n)
 void output(int n,int sum)
 {
   int i;
-  for(int i=1;i<=n;i++)
+  for(int i=1;i<n;i++)
   {
     printf("%d+",i);
   }
